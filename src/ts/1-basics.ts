@@ -6,9 +6,9 @@
 - object (more specific types of object are possible)
 - Array (element types can be flexible or strict)
 
-define a type with ': type' after variable name
-
 */
+
+// define a type with ': type' after variable name
 
 /* No need to define type when declaring and assigning value to a variable.
 TypeScript will infer the type based on the value being assigned. If you don't
