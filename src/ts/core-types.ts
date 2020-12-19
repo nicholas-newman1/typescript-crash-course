@@ -3,7 +3,8 @@
 - number (integers and floats/doubles)
 - string
 - boolean (true/false only, no truthy/falsy values)
-- object
+- object (more specific types of object are possible)
+- Array (element types can be flexible or strict)
 
 define a type with ': type' after variable name
 
