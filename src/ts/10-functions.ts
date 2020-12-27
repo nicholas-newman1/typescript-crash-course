@@ -39,4 +39,4 @@ let divideAndHandle = (num1: number, num2: number, cb: (msg: any) => void) => {
   cb(divide(num1, num2));
 };
 
-divideAndHandle(10, 2, log);
+// divideAndHandle(10, 2, log);

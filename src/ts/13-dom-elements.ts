@@ -22,6 +22,3 @@ element is being selected. This is when type casting comes in handy. Type
 casting specifies the type of html element and eliminates the need for ! */
 
 const button3 = document.querySelector('.button') as HTMLButtonElement;
-button3.addEventListener('click', (e) => {
-  e.preventDefault();
-});
